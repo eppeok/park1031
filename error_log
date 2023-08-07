@@ -1,0 +1,108 @@
+[04-Aug-2023 13:21:02 UTC] WordPress database error Table 'park103_db.wp_wsal_occurrences' doesn't exist for query SELECT * FROM `wp_wsal_occurrences`
+			WHERE (alert_id = 1003)
+			AND (site_id = 1)
+			AND (created_on BETWEEN 1688428801 AND 1691107200); made by do_action_ref_array('wsal_delete_logins'), WP_Hook->do_action, WP_Hook->apply_filters, WpSecurityAuditLog->delete_failed_logins, WSAL_Models_Occurrence->check_alert_1003, WSAL\Adapter\WSAL_Adapters_MySQL_Occurrence->check_alert_1003, WSAL\Adapter\WSAL_Adapters_MySQL_ActiveRecord->load_multi_query
+[04-Aug-2023 13:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 13:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 14:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 14:02:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
+[04-Aug-2023 14:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Error::get_data() in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php:339
+Stack trace:
+#0 /home/crx86jvx2rzg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Astra_Elementor->elementor_add_theme_colors(Object(WP_Error), Array, Object(WP_REST_Request))
+#1 /home/crx86jvx2rzg/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters(Object(WP_Error), Array)
+#2 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1206): apply_filters('rest_request_af...', Object(WP_Error), Array, Object(WP_REST_Request))
+#3 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/elementor/v1/g...', Array, Object(WP_Error))
+#4 /home/crx86jvx2rzg/public_html/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home/crx86jvx2rzg/public_html/wp-includes/rest-api. in /home/crx86jvx2rzg/public_html/wp-content/themes/astra/inc/compatibility/class-astra-elementor.php on line 339
