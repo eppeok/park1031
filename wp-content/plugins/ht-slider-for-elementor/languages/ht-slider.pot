@@ -1,0 +1,525 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HT Slider For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-27 08:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: ht-slider"
+
+#: include/admin/templates_list.php:62
+msgid " has been imported."
+msgstr ""
+
+#: include/admin/templates_list.php:34
+msgid " Templates"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: include/class.htslider.php:96 include/class.htslider.php:112
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: include/class.htslider.php:74
+#, php-format
+msgid ""
+"%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin "
+"to be active. Please activate Elementor to continue."
+msgstr ""
+
+#: include/class.htslider.php:81
+#, php-format
+msgid ""
+"%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin "
+"to be installed and activated. Please install Elementor to continue."
+msgstr ""
+
+#: include/admin/templates_list.php:32
+msgid "80 Templates are Free"
+msgstr ""
+
+#: include/class.htslider.php:75
+msgid "Activate Elementor"
+msgstr ""
+
+#: include/custom-post-type.php:82
+msgid "Add New Item"
+msgstr ""
+
+#: include/custom-post-type.php:20 include/custom-post-type.php:21
+msgid "Add New Slider"
+msgstr ""
+
+#: include/custom-post-type.php:87
+msgid "Add or remove items"
+msgstr ""
+
+#: include/custom-post-type.php:78
+msgid "All Item Categories"
+msgstr ""
+
+#: include/custom-post-type.php:19
+msgid "All Sliders"
+msgstr ""
+
+#: include/elementor_widgets.php:102
+msgid "Ascending"
+msgstr ""
+
+#: include/elementor_widgets.php:212
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: include/elementor_widgets.php:199
+msgid "Autoplay speed"
+msgstr ""
+
+#: include/admin/templates_list.php:49
+msgid "Back to Library"
+msgstr ""
+
+#: include/elementor_widgets.php:525
+msgid "Background"
+msgstr ""
+
+#: include/elementor_widgets.php:403 include/elementor_widgets.php:458
+#: include/elementor_widgets.php:568
+msgid "Background Color"
+msgstr ""
+
+#: include/elementor_widgets.php:417 include/elementor_widgets.php:472
+#: include/elementor_widgets.php:539 include/elementor_widgets.php:584
+msgid "Border"
+msgstr ""
+
+#: include/elementor_widgets.php:425 include/elementor_widgets.php:480
+#: include/elementor_widgets.php:547 include/elementor_widgets.php:592
+msgid "Border Radius"
+msgstr ""
+
+#: include/admin/templates_list.php:39
+msgid "Buy HTSlider Pro Version"
+msgstr ""
+
+#: include/admin/templates_list.php:85
+msgid "Buy Now"
+msgstr ""
+
+#: include/helpers_function.php:64
+msgid "Categories"
+msgstr ""
+
+#: include/custom-post-type.php:88
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/elementor_widgets.php:388 include/elementor_widgets.php:510
+msgid "Color"
+msgstr ""
+
+#: include/admin/templates_list.php:14
+msgid "Create a new slider from this template"
+msgstr ""
+
+#: include/elementor_widgets.php:101
+msgid "Descending"
+msgstr ""
+
+#: include/custom-post-type.php:23 include/custom-post-type.php:83
+msgid "Edit Item"
+msgstr ""
+
+#: include/admin/template-library.php:210
+msgid "Edit Template"
+msgstr ""
+
+#: include/class.htslider.php:98
+msgid "Elementor"
+msgstr ""
+
+#: include/custom-post-type.php:29
+msgid "Featured Image"
+msgstr ""
+
+#: include/custom-post-type.php:37
+msgid "Filter items list"
+msgstr ""
+
+#: include/class.htslider.php:159
+msgid "Go Pro"
+msgstr ""
+
+#: include/elementor_widgets.php:495
+msgid "Hover"
+msgstr ""
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr ""
+
+#: include/class.htslider.php:128
+msgid "HT Slider"
+msgstr ""
+
+#. Name of the plugin
+msgid "HT Slider For Elementor"
+msgstr ""
+
+#: include/admin/templates_list.php:27
+msgid "HT Slider Template Library"
+msgstr ""
+
+#: include/elementor_widgets.php:13
+msgid "HT: Slider"
+msgstr ""
+
+#: include/class.htslider.php:113
+msgid "HTSlider Addons"
+msgstr ""
+
+#: include/class.htslider.php:97
+msgid "HTSlider Addons for Elementor"
+msgstr ""
+
+#: include/helpers_function.php:58
+msgid "HTSlider Slider"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/htplugins/"
+msgstr ""
+
+#: include/admin/templates_list.php:89
+msgid "Import"
+msgstr ""
+
+#: include/admin/templates_list.php:63
+msgid "Import to Library"
+msgstr ""
+
+#: include/admin/templates_list.php:64
+msgid "Import to Slider"
+msgstr ""
+
+#: include/custom-post-type.php:33
+msgid "Insert into item"
+msgstr ""
+
+#: include/class.htslider.php:82
+msgid "Install Elementor"
+msgstr ""
+
+#: include/custom-post-type.php:17
+msgid "Item Archives"
+msgstr ""
+
+#: include/custom-post-type.php:35 include/custom-post-type.php:93
+msgid "Items list"
+msgstr ""
+
+#: include/custom-post-type.php:36 include/custom-post-type.php:94
+msgid "Items list navigation"
+msgstr ""
+
+#: include/elementor_widgets.php:279
+msgid "Mobile Phone"
+msgstr ""
+
+#: include/elementor_widgets.php:312
+msgid "Mobile Resolution"
+msgstr ""
+
+#: include/elementor_widgets.php:502
+msgid "Navigation"
+msgstr ""
+
+#: include/elementor_widgets.php:357
+msgid "Navigation Arrow"
+msgstr ""
+
+#: include/elementor_widgets.php:365
+msgid "Navigation Arrow Size"
+msgstr ""
+
+#: include/elementor_widgets.php:450 include/elementor_widgets.php:560
+msgid "Navigation Dots"
+msgstr ""
+
+#: include/custom-post-type.php:22
+msgid "New Item"
+msgstr ""
+
+#: include/custom-post-type.php:81
+msgid "New Item Category"
+msgstr ""
+
+#: include/admin/template-library.php:188
+msgid "New Template"
+msgstr ""
+
+#: include/elementor_widgets.php:132
+msgid "Next icon"
+msgstr ""
+
+#: include/elementor_widgets.php:177
+msgid "No"
+msgstr ""
+
+#: include/custom-post-type.php:92
+msgid "No items"
+msgstr ""
+
+#: include/elementor_widgets.php:350
+msgid "Normal"
+msgstr ""
+
+#: include/custom-post-type.php:91
+msgid "Not Found"
+msgstr ""
+
+#: include/custom-post-type.php:27
+msgid "Not found"
+msgstr ""
+
+#: include/custom-post-type.php:28
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/elementor_widgets.php:97
+msgid "Order"
+msgstr ""
+
+#: include/elementor_widgets.php:437
+msgid "Padding"
+msgstr ""
+
+#: include/custom-post-type.php:79
+msgid "Parent Item"
+msgstr ""
+
+#: include/custom-post-type.php:18 include/custom-post-type.php:80
+msgid "Parent Item:"
+msgstr ""
+
+#: include/elementor_widgets.php:181
+msgid "Pause on Hover?"
+msgstr ""
+
+#: include/class.htslider.php:114
+msgid "PHP"
+msgstr ""
+
+#: include/admin/templates_list.php:15
+msgctxt "placeholder"
+msgid "Enter a Slider Title"
+msgstr ""
+
+#: include/custom-post-type.php:89
+msgid "Popular Items"
+msgstr ""
+
+#: include/custom-post-type.php:13
+msgctxt "Post Type General Name"
+msgid "Slider"
+msgstr ""
+
+#: include/custom-post-type.php:14
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr ""
+
+#: include/admin/templates_list.php:92
+msgid "Preview"
+msgstr ""
+
+#: include/elementor_widgets.php:120
+msgid "Previous icon"
+msgstr ""
+
+#: include/admin/templates_list.php:96
+msgid "Pro"
+msgstr ""
+
+#: include/custom-post-type.php:31
+msgid "Remove featured image"
+msgstr ""
+
+#: include/custom-post-type.php:26
+msgid "Search Item"
+msgstr ""
+
+#: include/custom-post-type.php:90
+msgid "Search Items"
+msgstr ""
+
+#: include/helpers_function.php:10 include/helpers_function.php:30
+msgid "Select"
+msgstr ""
+
+#: include/elementor_widgets.php:74
+msgid "Select Category"
+msgstr ""
+
+#: include/elementor_widgets.php:60
+msgid "Select Slider"
+msgstr ""
+
+#: include/custom-post-type.php:86
+msgid "Separate items with commas"
+msgstr ""
+
+#: include/custom-post-type.php:30
+msgid "Set featured image"
+msgstr ""
+
+#: include/class.htslider.php:155
+msgid "Settings"
+msgstr ""
+
+#: include/elementor_widgets.php:52
+msgid "Show By Category"
+msgstr ""
+
+#: include/elementor_widgets.php:51
+msgid "Show By ID"
+msgstr ""
+
+#: include/custom-post-type.php:15 include/custom-post-type.php:16
+#: include/custom-post-type.php:41 include/elementor_widgets.php:40
+msgid "Slider"
+msgstr ""
+
+#: include/elementor_widgets.php:156
+msgid "Slider Arrow"
+msgstr ""
+
+#: include/elementor_widgets.php:188
+msgid "Slider auto play"
+msgstr ""
+
+#: include/custom-post-type.php:77
+msgid "Slider Category"
+msgstr ""
+
+#: include/elementor_widgets.php:325
+msgid "Slider Controller Style"
+msgstr ""
+
+#: include/elementor_widgets.php:166
+msgid "Slider dots"
+msgstr ""
+
+#: include/elementor_widgets.php:224 include/elementor_widgets.php:257
+#: include/elementor_widgets.php:300
+msgid "Slider item to scroll"
+msgstr ""
+
+#: include/elementor_widgets.php:144 include/elementor_widgets.php:245
+#: include/elementor_widgets.php:288
+msgid "Slider Items"
+msgstr ""
+
+#: include/elementor_widgets.php:88
+msgid "Slider Limit"
+msgstr ""
+
+#: include/elementor_widgets.php:333
+msgid "Slider Navigation Style"
+msgstr ""
+
+#: include/elementor_widgets.php:113
+msgid "Slider Option"
+msgstr ""
+
+#: include/elementor_widgets.php:47
+msgid "Slider Show By"
+msgstr ""
+
+#: include/elementor_widgets.php:337
+msgid "Style One"
+msgstr ""
+
+#: include/elementor_widgets.php:339
+msgid "Style Three"
+msgstr ""
+
+#: include/elementor_widgets.php:338
+msgid "Style Two"
+msgstr ""
+
+#: include/elementor_widgets.php:236
+msgid "Tablet"
+msgstr ""
+
+#: include/elementor_widgets.php:269
+msgid "Tablet Resolution"
+msgstr ""
+
+#: include/custom-post-type.php:75
+msgctxt "Taxonomy General Name"
+msgid "Slider Categories"
+msgstr ""
+
+#: include/custom-post-type.php:76
+msgctxt "Taxonomy Singular Name"
+msgid "Slider Category"
+msgstr ""
+
+#: include/admin/template-library.php:157
+msgid "Templates in this package"
+msgstr ""
+
+#: include/admin/template-library.php:51 include/admin/template-library.php:52
+msgid "Templates Library"
+msgstr ""
+
+#: include/elementor_widgets.php:313
+msgid "The resolution to mobile."
+msgstr ""
+
+#: include/elementor_widgets.php:270
+msgid "The resolution to tablet."
+msgstr ""
+
+#. Description of the plugin
+msgid "The Slider is a elementor addons for WordPress."
+msgstr ""
+
+#: include/custom-post-type.php:24 include/custom-post-type.php:84
+msgid "Update Item"
+msgstr ""
+
+#: include/custom-post-type.php:34
+msgid "Uploaded to this item"
+msgstr ""
+
+#: include/custom-post-type.php:32
+msgid "Use as featured image"
+msgstr ""
+
+#: include/custom-post-type.php:25 include/custom-post-type.php:85
+msgid "View Item"
+msgstr ""
+
+#: include/elementor_widgets.php:178
+msgid "Yes"
+msgstr ""
+
+#: include/admin/template-library.php:174
+msgid "You are not permitted to import the template."
+msgstr ""
